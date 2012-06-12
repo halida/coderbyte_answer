@@ -1,4 +1,4 @@
 coderbyte_answer
 ================
 
-my answer fo coderbyte.com
+my answer for coderbyte.com
